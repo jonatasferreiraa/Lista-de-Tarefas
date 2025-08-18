@@ -25,7 +25,7 @@ h1 {
   border-radius: 10px;
   padding: 20px;
   width: 50%;
-  min-width: 500px;
+  min-width: 600px;
 }
 
 .new-task-container {
@@ -36,6 +36,7 @@ h1 {
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .new-task-container input {
