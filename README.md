@@ -3,6 +3,8 @@
 Um projeto simples de **Lista de Tarefas (To-Do List)** desenvolvido com **HTML, CSS e JavaScript**.  
 O objetivo é praticar manipulação do DOM e armazenamento de dados no navegador.
 
+Obs.: Esse projeto foi criado para aplicação de estudos.
+
 ---
 
 ## 🚀 Funcionalidades
