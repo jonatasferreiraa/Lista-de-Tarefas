@@ -5,6 +5,8 @@ O objetivo é praticar manipulação do DOM e armazenamento de dados no navegado
 
 Obs.: Esse projeto foi criado para aplicação de estudos.
 
+
+🚀clique no link para visualizar: https://lista-de-tarefas-xi-jet.vercel.app/
 ---
 
 ## 🚀 Funcionalidades
